@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
 search: true
+icon: 🌸
 
 # Build settings
 markdown: kramdown
@@ -60,7 +61,7 @@ plugins:
 author:
   name   : "Seojin Hwang"
   avatar : "/assets/images/seojin-bio.jpg"
-  bio    : ""
+  bio    : "Welcome to my page! Feel free to contact me by email if you have any questions."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
